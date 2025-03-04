@@ -1,5 +1,5 @@
 # fastClines
-This is a Python package for performing rapid approximation of geographic cline parameters for SNP genetic data as outlined in Field et al., Genome-wide cline analysis identifies new locus contributing to a barrier to gene flow across an Antirrhinum hybrid zone (in review) https://www.biorxiv.org/content/10.1101/2025.02.17.638607v1.full. 
+This is a Python package for performing rapid approximation of geographic cline parameters for SNP genetic data as outlined in Field et al., 'Genome-wide cline analysis identifies new locus contributing to a barrier to gene flow across an _Antirrhinum_ hybrid zone' (in review) https://www.biorxiv.org/content/10.1101/2025.02.17.638607v1.full. 
 The input data consists of genome wide SNP data and the geographic location of populations. The main output consists of cline width and cline centre for each SNP locus.
 
 ## Table of contents
