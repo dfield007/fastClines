@@ -103,7 +103,7 @@ The values must be non-zero and represent the 'span of each deme'. There can be 
 
 Assuming the files required are prepared and in the same folder as the program script, an example of running fastClines is as follows: 
 
-python3 fastClines_v1.4.py scaffold_Chr6_v3_5_ROSEL_testc.txt popDetails_Chr6_RosEL.txt clines_testc 10 300 2 6 0.8 1 0 1
+python3 fastClines_v1.4.py scaffold_Chr6_v3_5_ROSEL_test.txt popDetails.txt clines_test 10 300 2 6 0.8 1 0 1
 
 in the command above, to run, after the script name you need the following arguments in this order: 
 
