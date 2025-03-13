@@ -1,0 +1,2 @@
+LG	scaffold	scaffoldName	cM
+6	Chr6_ROS_kaspSNPregion	Chr6_ROS_kaspSNPregion	13
