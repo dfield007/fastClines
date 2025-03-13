@@ -1,0 +1,7 @@
+Pool	N	Dist	ID	Lat	Long	Description
+15	52	6000	YP4	42.359921	1.926958	A_m_striatum
+16	50	5000	YP2	42.32584	2.054797	A_m_striatum
+17	50	1500	YP1	42.326943	2.052929	A_m_striatum
+18	50	1400	MP2	42.323325	2.082989	A_m_pseudomajus
+19	50	3500	MP4	42.322234	2.091375	A_m_pseudomajus
+20	50	6000	MP11	42.331038	2.170284	A_m_pseudomajus
